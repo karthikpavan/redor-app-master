@@ -1,0 +1,22 @@
+<table class="table  table-hover">
+    <thead>
+        <tr>
+          <th scope="col">ID</th>
+          <th scope="col">Latitude</th>
+          <th scope="col">Longitude</th>
+          <th scope="col">Speed (hrs/km)</th>
+          <th scope="col">Heading (0-360*)</th>
+          <th scope="col">Type</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let rador of radorDatalis" >
+            <td>{{rador.id}}</td>
+            <td>{{rador.latitude}}</td>
+            <td>{{rador.longitude}}</td>
+            <td>{{rador.speed}}</td>
+            <td>{{rador.heading}}</td>
+            <td>{{rador.area_types}}</td>
+        </tr>
+      </tbody>
+  </table>
