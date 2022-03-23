@@ -15,4 +15,4 @@ Display record for populating records for each 5sec
 ![image](https://user-images.githubusercontent.com/10458982/159699389-d1951e1e-7adc-42d3-bf5a-216cefbc858d.png)
 
 
-Note* : All URL restricted to localhost.
+Note* : All URL's restricted to localhost.
