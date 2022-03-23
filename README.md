@@ -1,4 +1,9 @@
 # redor-app-master
+
+Installation Steps:
+step 1: install node - https://nodejs.org/en/download/
+step 2: Install angular cli - npm install - g @angular/cli
+
 Rador Track Emulator - UI help's to populate data from DB for each 5sec when new data get reflected.
 
 URL : http://localhost:4200/home
